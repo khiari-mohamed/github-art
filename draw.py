@@ -13,7 +13,7 @@ PATTERN = [
 ]
 
 # 🔑 MUST be a Sunday
-START_DATE = datetime(2025, 6, 1)  # Sunday (change if you want)
+START_DATE = datetime(2025, 2, 2)  # Sunday
 
 with open("art.txt", "w"):
     pass
